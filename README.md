@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐯 전범규 (Jeon Beom-gyu) · codeLabTiger
+# 🐯 전범규 (Chun Bum-kyu) · codeLabTiger
 
 ### 🏦 25+ Years Expert · CTO · TA · AA · FinTech Architect
 
