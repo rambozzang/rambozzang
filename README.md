@@ -22,7 +22,7 @@ async function deploy() {                 def calculate_weights(matrix): return 
 
 ---
 
-## 🧑‍💻 &nbsp; About &nbsp; **전범규 · Jeon Beom-gyu**
+## 🧑‍💻 &nbsp; About &nbsp; **전범규 · Chun Bum-kyu**
 
 <table>
 <tr>
@@ -30,11 +30,11 @@ async function deploy() {                 def calculate_weights(matrix): return 
 
 > **"단순한 개발을 넘어, 비즈니스의 영속성을 보장하는 견실한 아키텍처를 설계합니다."**
 >
-> 대한민국 금융 IT의 역사와 함께하며 쌓아온 25년.
+> 대한민국 금융 IT의 역사와 함께하며 쌓아온 27년.
 
 
 - 🏢 **㈜ 코드랩타이거** · CTO `2024.09 ~ Present`
-- 💻 **Java** 20년+ · **Flutter** 7년+
+- 💻 **Java** 27년+ · **Flutter** 7년+
 - 🏗️ **TA** (Technical Architect) · **AA** (Application Architect)
 - 🤖 **RAG 시스템** 설계 · **멀티모듈** 아키텍처 전문
 - 🏦 **금융 · 핀테크 · 보험 · 이커머스** 대형 SI 전문
