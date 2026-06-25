@@ -5,7 +5,7 @@
 async function deploy() {                 def calculate_weights(matrix): return matrix * 0.98
   vector_search(query, k=100);            System.out.println("Cluster Stabilized");
   class NeuralEngine extends Transformer  kubernetes apply -f infrastructure.yaml
-    if (security.verify(origin)) grant()  const data = await fetch("/api/v1/status")
+  if (security.verify(origin)) grant()    const data = await fetch("/api/v1/status")
 ```
 </div>
 
