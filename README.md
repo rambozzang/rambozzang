@@ -1,4 +1,5 @@
 <div align="center">
+<div align="left">
 
 ```
 async function deploy() {                 def calculate_weights(matrix): return matrix * 0.98
@@ -6,6 +7,7 @@ async function deploy() {                 def calculate_weights(matrix): return 
   class NeuralEngine extends Transformer  kubernetes apply -f infrastructure.yaml
     if (security.verify(origin)) grant()  const data = await fetch("/api/v1/status")
 ```
+</div>
 
 ### ✦ &nbsp; I N N O V A T I N G &nbsp; T O M O R R O W &nbsp; ✦
 
@@ -41,7 +43,7 @@ async function deploy() {                 def calculate_weights(matrix): return 
 - 📍 Seoul, Korea · 010-2468-7272
 
 </td>
-<td width="45%" align="center">
+<td width="45%">
 
 ```java
 // CodeLabTiger Philosophy
@@ -284,6 +286,7 @@ project-root/
 ---
 
 <div align="center">
+<div align="left">
 
 ```java
 // What I build
@@ -298,6 +301,7 @@ project-root/
 })
 public class codeLabTiger implements CTO {}
 ```
+</div>
 
 <br/>
 
